@@ -1,0 +1,6 @@
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+num3 = int(num1/num2)
+num4 = int(num1%num2)
+print(f"Integer is: {num3}")
+print(f"Remainder is: {num4}")
