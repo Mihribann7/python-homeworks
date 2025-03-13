@@ -1,0 +1,4 @@
+Python is a general-purpose, versatile,
+and powerful programming language.
+It's a great first language because Python
+code is concise and easy to read.
