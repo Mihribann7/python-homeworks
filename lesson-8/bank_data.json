@@ -1,0 +1,10 @@
+{
+    "1": {
+        "name": "Alice",
+        "balance": 900
+    },
+    "2": {
+        "name": "Bob",
+        "balance": 500
+    }
+}
